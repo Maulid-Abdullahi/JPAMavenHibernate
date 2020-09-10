@@ -1,2 +1,4 @@
-customer\Customer.class
-hibernateHelper\hibernate.class
+hibernateMethods\MyMethods.class
+web\userServlet.class
+model\users.class
+hibernateHelper\HibernateUtil.class

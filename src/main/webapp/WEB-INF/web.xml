@@ -1,0 +1,14 @@
+<web-app>
+    <display-name>Archetype Created Web Application</display-name>
+<!--    <welcome-file-list>-->
+<!--        <welcome-file>./student-list.jsp</welcome-file>-->
+<!--        <welcome-file>./student-form.jsp</welcome-file>-->
+<!--        <welcome-file>./user-list.jsp</welcome-file>-->
+<!--        <welcome-file>./user-form.jsp</welcome-file>-->
+<!--    </welcome-file-list>-->
+    <!--	<error-page>-->
+    <!--	<exception-type>java.lang.Exception</exception-type>-->
+    <!--	<location>../user-form.jsp</location>-->
+    <!--	<location>../Error.jsp</location>-->
+    <!--</error-page>-->
+</web-app>
